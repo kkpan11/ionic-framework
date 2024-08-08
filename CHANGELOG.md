@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.2.6](https://github.com/ionic-team/ionic-framework/compare/v8.2.5...v8.2.6) (2024-07-24)
+
+
+### Bug Fixes
+
+* **alert:** do not overwrite id set in htmlAttributes ([#29708](https://github.com/ionic-team/ionic-framework/issues/29708)) ([1295ced](https://github.com/ionic-team/ionic-framework/commit/1295cedae9ffbcc40389c19499e58e7e21fb424e)), closes [#29704](https://github.com/ionic-team/ionic-framework/issues/29704)
+* **angular:** add focusTrap prop to modal and popover ([#29729](https://github.com/ionic-team/ionic-framework/issues/29729)) ([05913c3](https://github.com/ionic-team/ionic-framework/commit/05913c3cc3f2e8cb91f9a0944cd55e78392b0ba3)), closes [#29728](https://github.com/ionic-team/ionic-framework/issues/29728)
+* **overlays:** do not overwrite id set in htmlAttributes ([#29722](https://github.com/ionic-team/ionic-framework/issues/29722)) ([92ce563](https://github.com/ionic-team/ionic-framework/commit/92ce563c402e557b08a622bd20f78459782312e2)), closes [#29712](https://github.com/ionic-team/ionic-framework/issues/29712)
+
+
+
+
+
+## [8.2.5](https://github.com/ionic-team/ionic-framework/compare/v8.2.4...v8.2.5) (2024-07-03)
+
+
+### Bug Fixes
+
+* **dependencies:** use latest @stencil/core to remove DOMException errors ([#29685](https://github.com/ionic-team/ionic-framework/issues/29685)) ([d70ea4](https://github.com/ionic-team/ionic/commit/d70ea400a4713bd091af1393e196e10844a190b6)), closes [#29681](https://github.com/ionic-team/ionic/issues/29681)
+* **vue:** add optional IonicConfig type parameter to IonicVue plugin ([#29637](https://github.com/ionic-team/ionic-framework/issues/29637)) ([90893f4](https://github.com/ionic-team/ionic-framework/commit/90893f46c930dbccd4251fa2f56bdde30b669158)), closes [#29659](https://github.com/ionic-team/ionic-framework/issues/29659)
+
+
+
+
+
 ## [8.2.4](https://github.com/ionic-team/ionic-framework/compare/v8.2.2...v8.2.4) (2024-06-28)
 
 
